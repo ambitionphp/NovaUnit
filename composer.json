@@ -1,14 +1,14 @@
 {
-    "name": "joshgaber/novaunit",
-    "description": "Unit testing suite for Laravel Nova, built to extend PHPUnit",
-    "version": "3.1.0",
+    "name": "ambitionphp/novaunit",
+    "description": "Fork of joshgaber/novaunit; Unit testing suite for Laravel Nova, built to extend PHPUnit",
+    "version": "3.1.1",
     "keywords": [
         "laravel",
         "nova",
         "joshgaber",
         "novaunit"
     ],
-    "homepage": "https://github.com/joshgaber/novaunit",
+    "homepage": "https://github.com/ambitionphp/novaunit",
     "license": "MIT",
     "type": "library",
     "authors": [
@@ -16,6 +16,12 @@
             "name": "Josh Gaber",
             "email": "joshgaber@gmail.com",
             "homepage": "https://joshgaber.ca",
+            "role": "Developer"
+        },
+        {
+            "name": "Steven Sarkisian",
+            "email": "ambitionphp@gmail.com",
+            "homepage": "https://github.com/ambitionphp",
             "role": "Developer"
         }
     ],
